@@ -1,0 +1,16 @@
+# Системные файлы Android Studio
+.idea/
+.gradle/
+build/
+*.iml
+
+# Локальные настройки (пароли, пути к SDK)
+local.properties
+
+# Временные файлы системы
+capture/
+.externalNativeBuild
+.cxx/
+
+# Логи
+*.log
